@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/CallmeRajul/ez-node-js/issues"
   },
-  "homepage": "https://github.com/CallmeRajul/ez-node-js#readme"
+  "homepage": "https://github.com/CallmeRajul/ez-node-js#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
 }
