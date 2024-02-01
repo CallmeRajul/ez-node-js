@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 
 // panggil routes cenah
 
-var routs = require('./routes');
+var routes = require('./routes');
 routes(app);
 
 app.listen(3000, () => {
